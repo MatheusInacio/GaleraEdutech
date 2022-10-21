@@ -3,3 +3,5 @@ Site com todos os grupos do Edutech a reunião sobre as plataformas digitais em 
 
 # Pages
 https://matheusinacio.github.io/GaleraEdutech/
+
+#
